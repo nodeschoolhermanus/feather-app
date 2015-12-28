@@ -15,7 +15,7 @@ export default (state) => {
 
   return (
     <main>
-      <h1>Feather POC App</h1>
+      <h1>Mobile App</h1>
       <nav>
         <a href='/'>home</a> | <a href='/about'>about</a>
       </nav>
